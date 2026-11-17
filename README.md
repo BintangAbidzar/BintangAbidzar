@@ -1,135 +1,142 @@
- <!--
-  GitHub Profile README
-  Username: BintangAbidzar
--->
+ <!-- GitHub Profile README - BintangAbidzar -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=220&section=header&text=Bintang%20Abidzar&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Informatics%20Engineering%20Student%20%7C%20Developer&descAlignY=58&descSize=16" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile;Web+Development+%7C+IoT+%7C+Cloud;Always+Learning+Something+New" alt="Typing SVG" />
-
-<p>
-  <a href="https://github.com/BintangAbidzar">
-    <img src="https://img.shields.io/badge/GitHub-BintangAbidzar-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=BintangAbidzar&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
-</p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Hi! I'm **Bintang Abidzar**, an Informatics Engineering student who is passionate about technology, programming, and software development.
-
-I'm currently exploring different areas of technology, especially web development, Internet of Things (IoT), and cloud computing.
-
-- 🎓 Informatics Engineering Student
-- 💻 Interested in Web Development and Software Engineering
-- 🌐 Exploring Backend Development and Cloud Computing
-- 🔌 Learning and building IoT projects with ESP8266
-- ☁️ Exploring AWS and cloud infrastructure
-- 🚀 Always learning, experimenting, and building new things
-
-> "Great things are built one line of code at a time."
-
----
-
-## 🛠️ Tech Stack & Tools
-
-**Programming Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,php,js" />
-</p>
-
-**Web Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,django" />
-</p>
-
-**Database & Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,aws,firebase" />
-</p>
-
-**Tools & Development Environment**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-Here are some of the areas I'm currently exploring and developing:
-
-| Project | Description | Technology |
-|---|---|---|
-| 🌐 Web Development | Website development and backend systems | Python, Django |
-| 🔌 IoT Projects | Microcontroller-based monitoring and automation | ESP8266, Arduino |
-| ☁️ Cloud Computing | Cloud infrastructure and deployment | AWS |
-| 📚 Academic Projects | Programming and software engineering assignments | Java, PHP, Python |
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BintangAbidzar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BintangAbidzar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1D4ED8,100:06B6D4&height=230&section=header&text=BINTANG%20ABIDZAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=INFORMATICS%20ENGINEERING%20%7C%20DEVELOPER&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=BintangAbidzar&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BintangAbidzar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-## 🎯 Currently Focusing On
-
-- Improving my programming skills.
-- Building better and more useful web applications.
-- Exploring IoT systems and hardware integration.
-- Learning cloud computing and AWS services.
-- Understanding software engineering practices.
-
----
-
-## 🤝 Let's Connect!
-
-I'm always open to learning, collaboration, and connecting with fellow developers.
-
-<div align="center">
-
-<a href="https://github.com/BintangAbidzar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<!-- Add your LinkedIn and other social media links here -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Bintang+Abidzar.;Building+Ideas+Into+Reality.;Web+Development+%7C+IoT+%7C+Cloud+Computing.;Always+Learning.+Always+Building." />
 
 <br/><br/>
 
-**Thanks for visiting my profile!**
+<a href="https://github.com/BintangAbidzar">
+<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/BintangAbidzar?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=BintangAbidzar&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:0F172A&height=120&section=footer" width="100%" />
+<br/><br/>
+
+</div>
+
+---
+
+<h2 align="center">👨‍💻 ABOUT ME</h2>
+
+<div align="center">
+
+I'm **Bintang Abidzar**, an Informatics Engineering student passionate about technology and software development.
+
+I enjoy exploring new technologies, developing applications, and turning ideas into practical solutions.
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-Web%20Development-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/INTEREST-IoT-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/EXPLORING-Cloud%20Computing-7C3AED?style=flat-square" />
+
+</div>
+
+<br/>
+
+- 🎓 Informatics Engineering Student
+- 💻 Interested in Backend and Web Development
+- 🔌 Exploring Internet of Things with ESP8266
+- ☁️ Learning Cloud Computing and AWS
+- 🚀 Continuously improving my programming skills
+
+---
+
+<h2 align="center">⚡ TECHNOLOGIES & TOOLS</h2>
+
+<h3 align="center">Programming Languages</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,php,js&theme=dark" />
+</p>
+
+<h3 align="center">Web Development</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,django&theme=dark" />
+</p>
+
+<h3 align="center">Database & Cloud</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,firebase,aws&theme=dark" />
+</p>
+
+<h3 align="center">Tools & Environment</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark" />
+</p>
+
+---
+
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BintangAbidzar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BintangAbidzar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=BintangAbidzar&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+
+</div>
+
+---
+
+<h2 align="center">📈 CONTRIBUTION GRAPH</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BintangAbidzar&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<h2 align="center">🎯 CURRENTLY EXPLORING</h2>
+
+<div align="center">
+
+| Area | Focus |
+|:---:|:---|
+| 🌐 Web Development | Building modern web applications |
+| 🔌 Internet of Things | Smart systems and automation |
+| ☁️ Cloud Computing | AWS and cloud infrastructure |
+| 💡 Software Engineering | Clean code and problem solving |
+
+</div>
+
+---
+
+<h2 align="center">🤝 LET'S CONNECT</h2>
+
+<div align="center">
+
+I'm always excited to learn, collaborate, and build something meaningful with others.
+
+<br/>
+
+<a href="https://github.com/BintangAbidzar">
+<img src="https://img.shields.io/badge/GitHub-BintangAbidzar-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+**"Code. Create. Innovate. Repeat."**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:020617&height=130&section=footer" width="100%" />
 
 </div>
