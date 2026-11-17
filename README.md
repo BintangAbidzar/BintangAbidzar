@@ -1,29 +1,21 @@
-&#x20;\<div align="center">
+![Bintang Abidzar](https://capsule-render.vercel.app/api?type=rect&color=0:171717,50:292929,100:F97316&height=190&section=header&text=BINTANG%20ABIDZAR&fontSize=44&fontColor=FFFFFF&fontAlignY=42&desc=INFORMATICS%20ENGINEERING%20%7C%20DEVELOPER&descSize=14&descAlignY=65)
 
-\<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:292929&height=190&section=header&text=BINTANG%20ABIDZAR&fontSize=44&fontColor=FFFFFF&fontAlignY=42&desc=INFORMATICS%20ENGINEERING%20%7C%20DEVELOPER&descSize=14&descAlignY=65](https://capsule-render.vercel.app/api?type=rect\&color=0:111111,100:292929\&height=190\&section=header\&text=BINTANG%20ABIDZAR\&fontSize=44\&fontColor=FFFFFF\&fontAlignY=42\&desc=INFORMATICS%20ENGINEERING%20%7C%20DEVELOPER\&descSize=14\&descAlignY=65)" width="100%" />
+<div align="center">
 
-\<br/>
+**BUILDING IDEAS INTO REALITY.**
 
-**Building. Learning. Exploring Technology.**
+[![GitHub](https://img.shields.io/badge/GITHUB-BintangAbidzar-242424?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BintangAbidzar)
+![Profile Views](https://komarev.com/ghpvc/?username=BintangAbidzar&style=for-the-badge&color=F97316&label=PROFILE+VIEWS)
 
-\<br/>
-
-\<a href="[https://github.com/BintangAbidzar](https://github.com/BintangAbidzar)">
-\<img src="[https://img.shields.io/badge/GitHub-BintangAbidzar-242424?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-BintangAbidzar-242424?style=for-the-badge\&logo=github\&logoColor=white)" />
-\</a>
-\<img src="[https://komarev.com/ghpvc/?username=BintangAbidzar&style=for-the-badge&color=374151&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=BintangAbidzar\&style=for-the-badge\&color=374151\&label=PROFILE+VIEWS)" />
-
-\<br/>\<br/>
-
-\</div>
+</div>
 
 ---
 
-## 01. About Me
+## 01 / ABOUT ME
 
-Hello! I'm **Bintang Abidzar**, an Informatics Engineering student interested in technology, programming, and software development.
+Hello! I'm **Bintang Abidzar**, an Informatics Engineering student passionate about technology, programming, and software development.
 
-I enjoy learning new technologies, developing applications, and exploring how software can solve real-world problems.
+I enjoy exploring new technologies, developing applications, and turning ideas into practical solutions.
 
 - 🎓 Informatics Engineering Student
 - 💻 Interested in Web Development and Backend Development
@@ -31,88 +23,67 @@ I enjoy learning new technologies, developing applications, and exploring how so
 - ☁️ Learning Cloud Computing and AWS
 - 🚀 Always learning and building new things
 
-> "Great things are built one line of code at a time."
+> *"Great things are built one line of code at a time."*
 
 ---
 
-## 02. Tech Stack & Tools
+## 02 / TECH STACK & TOOLS
 
 **Programming Languages**
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=python,java,php,js&theme=dark](https://skillicons.dev/icons?i=python,java,php,js\&theme=dark)" />
-\</p>
+![Programming Languages](https://skillicons.dev/icons?i=python,java,php,js&theme=dark)
 
 **Web Development**
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=html,css,django&theme=dark](https://skillicons.dev/icons?i=html,css,django\&theme=dark)" />
-\</p>
+![Web Development](https://skillicons.dev/icons?i=html,css,django&theme=dark)
 
 **Database & Cloud**
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=mysql,firebase,aws&theme=dark](https://skillicons.dev/icons?i=mysql,firebase,aws\&theme=dark)" />
-\</p>
+![Database and Cloud](https://skillicons.dev/icons?i=mysql,firebase,aws&theme=dark)
 
 **Development Tools**
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,arduino\&theme=dark)" />
-\</p>
+![Development Tools](https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark)
 
 ---
 
-## 03. GitHub Statistics
+## 03 / GITHUB STATISTICS
 
-\<div align="center">
+| GitHub Stats | Most Used Languages |
+|:---:|:---:|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BintangAbidzar&show_icons=true&theme=github_dark&hide_border=false&border_color=F97316&title_color=F97316&icon_color=F97316&text_color=E5E7EB&bg_color=0D1117) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BintangAbidzar&layout=compact&theme=github_dark&hide_border=false&border_color=F97316&title_color=F97316&text_color=E5E7EB&bg_color=0D1117&langs_count=6) |
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=BintangAbidzar&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=BintangAbidzar\&show_icons=true\&theme=github_dark\&hide_border=true\&rank_icon=github)" />
+<div align="center">
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=BintangAbidzar&layout=compact&theme=github_dark&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=BintangAbidzar\&layout=compact\&theme=github_dark\&hide_border=true\&langs_count=8)" />
+![GitHub Streak](https://streak-stats.demolab.com?user=BintangAbidzar&theme=github-dark-blue&hide_border=false&border=F97316&ring=F97316&fire=F97316&currStreakLabel=F97316)
 
-\<br/>\<br/>
-
-\<img width="70%" src="[https://streak-stats.demolab.com?user=BintangAbidzar&theme=github-dark-blue&hide_border=true](https://streak-stats.demolab.com?user=BintangAbidzar\&theme=github-dark-blue\&hide_border=true)" />
-
-\</div>
+</div>
 
 ---
 
-## 04. Contribution Activity
+## 04 / CONTRIBUTION ACTIVITY
 
-\<div align="center">
-
-\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=BintangAbidzar&bg_color=0d1117&color=c9d1d9&line=3fb950&point=ffffff&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=BintangAbidzar\&bg_color=0d1117\&color=c9d1d9\&line=3fb950\&point=ffffff\&area=true\&hide_border=true)" width="100%" />
-
-\</div>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BintangAbidzar&bg_color=0D1117&color=E5E7EB&line=F97316&point=FFFFFF&area=true&hide_border=false&custom_title=Contribution%20Activity)
 
 ---
 
-## 05. Currently Exploring
+## 05 / CURRENTLY EXPLORING
 
-\<table width="100%" border="1" cellpadding="12" cellspacing="0"> \<thead> \<tr> \<th align="left">AREA\</th> \<th align="left">CURRENT FOCUS\</th> \</tr> \</thead> \<tbody> \<tr> \<td>Web Development\</td> \<td>Modern websites and backend applications\</td> \</tr> \<tr> \<td>Internet of Things\</td> \<td>ESP8266, smart systems, and automation\</td> \</tr> \<tr> \<td>Cloud Computing\</td> \<td>AWS services and cloud infrastructure\</td> \</tr> \<tr> \<td>Software Engineering\</td> \<td>Clean code and problem solving\</td> \</tr> \</tbody> \</table>
+| AREA | CURRENT FOCUS |
+|:---|:---|
+| 🌐 Web Development | Modern websites and backend applications |
+| 🔌 Internet of Things | ESP8266, smart systems, and automation |
+| ☁️ Cloud Computing | AWS services and cloud infrastructure |
+| 💡 Software Engineering | Clean code and problem solving |
 
 ---
 
-## 06. Let's Connect
-
-\<div align="center">
+## 06 / LET'S CONNECT
 
 I'm always open to learning, collaboration, and connecting with fellow developers.
 
-\<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-Visit_My_Profile-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BintangAbidzar)
 
-\<a href="[https://github.com/BintangAbidzar](https://github.com/BintangAbidzar)">
-\<img src="[https://img.shields.io/badge/GitHub-Visit%20My%20Profile-242424?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Visit%20My%20Profile-242424?style=for-the-badge\&logo=github\&logoColor=white)" />
-\</a>
+**CODE WITH PURPOSE. BUILD WITH PASSION.**
 
-\<br/>\<br/>
-
-**"Code with Purpose. Build with Passion."**
-
-\<br/>
-
-\<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:292929,100:111111&height=65&section=footer](https://capsule-render.vercel.app/api?type=rect\&color=0:292929,100:111111\&height=65\&section=footer)" width="100%" />
-
-\</div>
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:F97316,100:171717&height=65&section=footer)
